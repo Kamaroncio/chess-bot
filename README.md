@@ -1,4 +1,4 @@
-# chess-bot
+# chess-bot "wondercat"
 this bot was created as a personal proyect
 
 text is in spanish i know...
